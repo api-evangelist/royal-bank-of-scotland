@@ -1,0 +1,151 @@
+{
+    "id": "805323ad67ae77e61a6c04340bf36deb",
+    "name": "Royal Bank of Scotland",
+    "description": null,
+    "auth": null,
+    "events": null,
+    "variables": [],
+    "order": [],
+    "folders_order": [],
+    "folders": [],
+    "requests": [
+        {
+            "id": "e84d2f431874f74273a107395f1e1ead",
+            "name": "Get ATMs",
+            "url": "httpsopenapi.rbs.co.ukopen-banking\/v2.1\/atms\/",
+            "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can provide multiple ATMs.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "805323ad67ae77e61a6c04340bf36deb",
+            "rawModeData": ""
+        },
+        {
+            "id": "670ccc1d0d42297ef225faf86dfc5fc0",
+            "name": "Get Branches",
+            "url": "httpsopenapi.rbs.co.ukopen-banking\/v2.1\/branches\/",
+            "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple branches. ",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "805323ad67ae77e61a6c04340bf36deb",
+            "rawModeData": ""
+        },
+        {
+            "id": "75fbd832b44608a56fb4c84bddcab83d",
+            "name": "Get Current Personal Accounts",
+            "url": "httpsopenapi.rbs.co.ukopen-banking\/v2.1\/personal-current-accounts\/",
+            "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple PCA products.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "805323ad67ae77e61a6c04340bf36deb",
+            "rawModeData": ""
+        },
+        {
+            "id": "ee2f65753f1e23c3a44d1641f7b57a38",
+            "name": "Get Current Business Accounts",
+            "url": "httpsopenapi.rbs.co.ukopen-banking\/v2.1\/business-current-accounts\/",
+            "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple BCA products.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "805323ad67ae77e61a6c04340bf36deb",
+            "rawModeData": ""
+        },
+        {
+            "id": "a3a19a423dbd693a6b35b8a0ddb1e49b",
+            "name": "Get Unsecured SME Loans",
+            "url": "httpsopenapi.rbs.co.ukopen-banking\/v2.1\/unsecured-sme-loans\/",
+            "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple SME Unsecured Loan products.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "805323ad67ae77e61a6c04340bf36deb",
+            "rawModeData": ""
+        },
+        {
+            "id": "935bb90919ee4aaac4eca9ba11261470",
+            "name": "Get Commercial Credit Cards",
+            "url": "httpsopenapi.rbs.co.ukopen-banking\/v2.1\/commercial-credit-cards\/",
+            "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple SME Commercial Credit Card products.",
+            "data": [],
+            "dataMode": "raw",
+            "headerData": null,
+            "method": "get",
+            "pathVariableData": [],
+            "queryParams": [],
+            "auth": null,
+            "events": null,
+            "folder": null,
+            "protocolProfileBehavior": {
+                "disableBodyPruning": true
+            },
+            "responses": [],
+            "currentHelper": null,
+            "helperAttributes": null,
+            "collectionId": "805323ad67ae77e61a6c04340bf36deb",
+            "rawModeData": ""
+        }
+    ]
+}
