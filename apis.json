@@ -1,0 +1,71 @@
+{
+    "name": "Royal Bank of Scotland",
+    "description": "<p>The Royal Bank of Scotland (Scottish Gaelic: Banca R&igrave;oghail na h-Alba, Scots: Ryal Baunk o Scotland, Welsh: Banc Brenhinol yr Alban), commonly abbreviated as RBS, is one of the retail banking subsidiaries of The Royal Bank of Scotland Group plc, together with NatWest and Ulster Bank. The Royal Bank of Scotland has around 700 branches, mainly in Scotland, though there are branches in many larger towns and cities throughout England and Wales. Both the bank and its parent, The Royal Bank of Scotland Group, are completely separate from the fellow Edinburgh-based bank, the Bank of Scotland, which pre-dates The Royal Bank of Scotland by 32 years.&nbsp;<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/royal-bank-of-scotland.png",
+    "tags": [
+        "banking",
+        "general data",
+        "have api",
+        "relative data",
+        "uk banks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/royal-bank-of-scotland\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Royal Bank of Scotland",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/royal-bank-of-scotland.png",
+            "humanURL": "https:\/\/www.rbs.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/openapis\/royal-bank-of-scotland.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Contact Form",
+            "url": "http:\/\/www.bankofapis.com\/Home\/Contact"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/royal-bank-of-scotland"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/openbankingapis.io\/uk\/royal-bank-of-scotland"
+        },
+        {
+            "type": "Documentation",
+            "url": "https:\/\/openbanking.atlassian.net\/wiki\/spaces\/DZ\/pages\/54919225\/Open+Data+API+Dashboard#"
+        },
+        {
+            "type": "FAQ",
+            "url": "http:\/\/www.bankofapis.com\/Home\/FAQ"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/bankofapis"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/RBS"
+        },
+        {
+            "type": "Hackathon",
+            "url": "http:\/\/www.bankofapis.com"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.rbs.com"
+        }
+    ]
+}
