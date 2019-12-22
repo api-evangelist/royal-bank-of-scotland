@@ -1,5 +1,5 @@
 {
-    "id": "805323ad67ae77e61a6c04340bf36deb",
+    "id": "f8310134e20a380d8ad94371c997e3c5",
     "name": "Royal Bank of Scotland",
     "description": null,
     "auth": null,
@@ -10,7 +10,7 @@
     "folders": [],
     "requests": [
         {
-            "id": "e84d2f431874f74273a107395f1e1ead",
+            "id": "450feb6eb47b96dca93f4fefc30ef496",
             "name": "Get ATMs",
             "url": "httpsopenapi.rbs.co.ukopen-banking\/v2.1\/atms\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can provide multiple ATMs.",
@@ -29,11 +29,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "805323ad67ae77e61a6c04340bf36deb",
+            "collectionId": "f8310134e20a380d8ad94371c997e3c5",
             "rawModeData": ""
         },
         {
-            "id": "670ccc1d0d42297ef225faf86dfc5fc0",
+            "id": "56835faf86b85cbfdedb3b6c5af50fa9",
             "name": "Get Branches",
             "url": "httpsopenapi.rbs.co.ukopen-banking\/v2.1\/branches\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple branches. ",
@@ -52,11 +52,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "805323ad67ae77e61a6c04340bf36deb",
+            "collectionId": "f8310134e20a380d8ad94371c997e3c5",
             "rawModeData": ""
         },
         {
-            "id": "75fbd832b44608a56fb4c84bddcab83d",
+            "id": "dd847c394b463bc6c49b8152cc673585",
             "name": "Get Current Personal Accounts",
             "url": "httpsopenapi.rbs.co.ukopen-banking\/v2.1\/personal-current-accounts\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple PCA products.",
@@ -75,11 +75,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "805323ad67ae77e61a6c04340bf36deb",
+            "collectionId": "f8310134e20a380d8ad94371c997e3c5",
             "rawModeData": ""
         },
         {
-            "id": "ee2f65753f1e23c3a44d1641f7b57a38",
+            "id": "6740fff791315245a03bb27549c5dca6",
             "name": "Get Current Business Accounts",
             "url": "httpsopenapi.rbs.co.ukopen-banking\/v2.1\/business-current-accounts\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple BCA products.",
@@ -98,11 +98,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "805323ad67ae77e61a6c04340bf36deb",
+            "collectionId": "f8310134e20a380d8ad94371c997e3c5",
             "rawModeData": ""
         },
         {
-            "id": "a3a19a423dbd693a6b35b8a0ddb1e49b",
+            "id": "99aa967920712f3f9e6f12c0e710ca2b",
             "name": "Get Unsecured SME Loans",
             "url": "httpsopenapi.rbs.co.ukopen-banking\/v2.1\/unsecured-sme-loans\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple SME Unsecured Loan products.",
@@ -121,11 +121,11 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "805323ad67ae77e61a6c04340bf36deb",
+            "collectionId": "f8310134e20a380d8ad94371c997e3c5",
             "rawModeData": ""
         },
         {
-            "id": "935bb90919ee4aaac4eca9ba11261470",
+            "id": "cffd410611357fa54874137b6efe4175",
             "name": "Get Commercial Credit Cards",
             "url": "httpsopenapi.rbs.co.ukopen-banking\/v2.1\/commercial-credit-cards\/",
             "description": "This endpoint can contain multiple brands owned by a particular banking group. Each brand can own multiple SME Commercial Credit Card products.",
@@ -144,7 +144,7 @@
             "responses": [],
             "currentHelper": null,
             "helperAttributes": null,
-            "collectionId": "805323ad67ae77e61a6c04340bf36deb",
+            "collectionId": "f8310134e20a380d8ad94371c997e3c5",
             "rawModeData": ""
         }
     ]
